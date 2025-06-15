@@ -2,7 +2,7 @@
 Using face-api.js for real-time face detection, this project enables developers to implement facial recognition features seamlessly into web applications, enhancing user experiences with advanced image processing capabilities.
 
 ## Vercel Hosted Link
-https://face-blush.vercel.app
+https://face-recognition-taupe-seven.vercel.app
 
 ## Installation steps / How to run locally? ✌️
 
