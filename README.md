@@ -24,4 +24,4 @@ Then do the following steps:
 ```
 
 ## Screenshot
-![Screenshot (586)](https://github.com/Pushpendra-1697/Face_Recognition/assets/104748364/eefc3089-7cb0-4494-9473-c38401746d75)
+
