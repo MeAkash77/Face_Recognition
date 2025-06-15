@@ -7,7 +7,7 @@ https://face-recognition-taupe-seven.vercel.app
 ## Installation steps / How to run locally? ✌️
 
 Clone the Repository from GitHub.
-https://github.com/Pushpendra-1697/Face_Recognition
+https://github.com/MeAkash77/Face_Recognition.git
 
 Then do the following steps:
 
